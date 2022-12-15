@@ -5,7 +5,7 @@ Code DOPNet: Dense Object Prediction Network for Multi-Class Object Counting and
 Pre-trained models
 ---
 
-[Baidu Cloud](链接：https://pan.baidu.com/s/1qOP0S6kLz5F3eBPS2zz1Hg) : n551
+[Baidu Cloud](https://pan.baidu.com/s/1qOP0S6kLz5F3eBPS2zz1Hg) : n551
 
 Environment
 ---
